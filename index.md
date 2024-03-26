@@ -11,13 +11,6 @@ Lanjun Wang is a researcher and doctoral supervisor at the School of New Media a
 If you are interested in my research and want to sign up for my PhD, please feel free to contact me by email.
 
 
-
-<!-- Here is **Hanlin Cai (Lance, 蔡汉霖)**.
-
-I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò's team](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**. I will be attending AAAI-24 in person, please feel free to chat with me! -->
-
-<!-- If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org* -->
-
 ---
 ## Research Interests
 可信人工智能：包括人工智能系统可解释性、鲁棒性、公平性与偏见、可问责性等保障人工智能系统安全发展面临一系列新技术，主要关注媒体内容推荐与传播的场景。
