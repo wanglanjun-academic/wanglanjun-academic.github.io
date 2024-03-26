@@ -8,7 +8,7 @@ url: https://qzy568.github.io
 #修改的时候注意要空格  name: yourname
 owner:
   name: Lanjun Wang
-  avatar: ./images/Head.png
+  avatar: Head.png
   # bio: Researcher, Tianjin University
   email: wanglanjun@tju.edu.cn
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
