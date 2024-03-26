@@ -4,9 +4,10 @@ layout: page
 
 # About Me
 
-<img src="https://github.com/Qzy568/Qzy568.github.io/images/wanglanjun.png" class="floatpic" width="360" height="480">
+<img src="https://github.com/Qzy568/Qzy568.github.io/wanglanjun.png" class="floatpic" width="360" height="480">
 
 Lanjun is a researcher and doctoral supervisor at the School of New Media and Communication, Tianjin University. Her research interests include data governance, data mining and trusted artificial intelligence. She received her Bachelor of Science and Doctor of Engineering degrees from Tsinghua University. After graduation, she worked as a senior senior research fellow at IBM and a technical expert at Huawei. As the trusted person in charge of Huawei cloud model, he established the industry’s first security standard for implementing artificial intelligence cloud services. She has published more than 40 high-level papers, Google index more than 1100 times, has granted 25 patents, and served as a reviewer for many top international journals and a member of the relevant top conferences and other program committees. In addition, she has maintained long-term cooperative relations with famous universities at home and abroad as well as well-known domestic technology enterprises.
+
 <!-- 博士生招生启事
 导师介绍
 我是[导师姓名]，[职称]，在[大学/研究所名称]的[系/所]工作。我的研究领域主要集中在[研究领域描述]，具体研究方向包括[具体研究方向]。我目前领导的研究团队在国内外学术界享有盛誉，多次在国际知名期刊和会议上发表论文。我们致力于提供一个充满挑战与机遇的研究环境，鼓励团队成员探索新思路、发展个人职业生涯。
