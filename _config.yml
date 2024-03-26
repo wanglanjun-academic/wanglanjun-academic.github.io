@@ -76,8 +76,8 @@ kramdown:
   #   coderay_css: class
 
 # disqus settings:
-disqus:
-  shortname: lancecai
+# disqus:
+#   shortname: lancecai
 
 include: [".htaccess"]
 exclude:
