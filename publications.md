@@ -4,11 +4,11 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 12th Feb 2024&nbsp;  
+> Lastest Update: 26th Mar 2024&nbsp;  
 <!-- > [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/) -->
 
-## Conference Paper
-模板
+## Paper
+
 - **Impart: An Imperceptible and Effective Label-Specific Backdoor Attack** [[link]](https://arxiv.org/html/2403.13017v1) 2024.<br>J Zhao, Z Wang, Y Wang, L Wang<br>arXiv preprint arXiv:2403.13017,  
   
 - **MCDAN: a Multi-scale Context-enhanced Dynamic Attention Network for Diffusion Prediction**
@@ -19,7 +19,7 @@ title: Publications
 
 - [An IoT Garbage Monitoring System for Effective Garbage Management](https://www.researchgate.net/publication/368410220_An_IoT_Garbage_Monitoring_System_for_Effective_Garbage_Management)<br>Freshman course design, early project.<br>Hanlin Cai, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br> -->
 
-<br>
+<!-- <br>
 
 ## Journal Paper
 
@@ -45,4 +45,4 @@ title: Publications
 
 - [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/en/)<br>
 
-  <br>
+  <br> -->
