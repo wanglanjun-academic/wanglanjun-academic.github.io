@@ -4,11 +4,13 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://github.com/Qzy568/Qzy568.github.io/images/wanglanjun.png" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Lanjun is a researcher and doctoral supervisor at the School of New Media and Communication, Tianjin University. Her research interests include data governance, data mining and trusted artificial intelligence. She received her Bachelor of Science and Doctor of Engineering degrees from Tsinghua University. After graduation, she worked as a senior senior research fellow at IBM and a technical expert at Huawei. As the trusted person in charge of Huawei cloud model, he established the industry’s first security standard for implementing artificial intelligence cloud services. She has published more than 40 high-level papers, Google index more than 1100 times, has granted 25 patents, and served as a reviewer for many top international journals and a member of the relevant top conferences and other program committees. In addition, she has maintained long-term cooperative relations with famous universities at home and abroad as well as well-known domestic technology enterprises.
 
-I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò's team](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**. I will be attending AAAI-24 in person, please feel free to chat with me!
+<!-- Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+
+I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò's team](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**. I will be attending AAAI-24 in person, please feel free to chat with me! -->
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
 
