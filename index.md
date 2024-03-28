@@ -6,34 +6,32 @@ layout: page
 
 <img src="./images/wanglanjun.png" class="floatpic" width="360" height="480">
 
-Lanjun Wang is a researcher and doctoral supervisor at the School of New Media and Communication, Tianjin University. Her research interests include data governance, data mining and trusted artificial intelligence. She received her Bachelor of Science and Doctor of Engineering degrees from Tsinghua University. After graduation, she worked as a senior senior research fellow at IBM and a technical expert at Huawei. As the trusted person in charge of Huawei cloud model, he established the industry’s first security standard for implementing artificial intelligence cloud services. She has published more than 40 high-level papers, Google index more than 1100 times, has granted 25 patents, and served as a reviewer for many top international journals and a member of the relevant top conferences and other program committees. In addition, she has maintained long-term cooperative relations with famous universities at home and abroad as well as well-known domestic technology enterprises.
+Lanjun received her Ph.D. in Electronic Engineering from Tsinghua University in 2011, and in the same year, she joined IBM Research-China. Before that, she was a member of Academic Talent Program 2001 at Tsinghua University and received B.S. degree in Math and Physics in 2005. After 10 year working in the industry, Lanjun was back to academia in 2021. Now she is a Researcher(=full professor) and doctoral supervisor at the School of New Media and Communication, Tianjin University. 
+ 
+Her scholarly pursuits are anchored in the realm of **Responsible Artificial Intelligence**. Lanjun is committed to crafting interpretable, robust, fair, privacy-preserving, and transparent artificial intelligence systems. Additionally, she delves into the realm of **data valuation and pricing**, aiming to harness data as a pivotal factor of production.
 
-If you are interested in my research and want to sign up for my PhD, please feel free to contact me by email.
 
-
----
-## Research Interests
-可信人工智能：包括人工智能系统可解释性、鲁棒性、公平性与偏见、可问责性等保障人工智能系统安全发展面临一系列新技术，主要关注媒体内容推荐与传播的场景。
-
-数据治理：包括数据隐私保护、数据价值评估、数据清洗等技术，使得最大限度的挖掘数据传播价值，同时构筑数据安全堤坝。
+> [Recruiting]:  Looking for prospective PhD students (1-2) and Master students (3-4) who will be enrolling in 2026.   Ideal candidates are expected to be **responsible**, **organized**, and **creative**. Strong *programming* skills, solid *mathematics* knowledge as well as good *communication* skills are preferred.  Please send your **CV**, **Transcript** and a brief **Summary** of your experience (in email). 
 
 
 ---
-## Work experience
-- **2017.5-2021.10:** 华为技术有限公司, 技术专家
-- **2021.10-至今:** 天津大学, 研究员,博士生导师
+## Work Experience
+- **2021.10-Present:** Tianjin University, Researcher
+- **2017.5-2021.10:** Huawei Technologies, Technical Expert
+- **2016.2-2017.5:** University of Waterloo, Postdoctoral Research Fellow
+- **2011.7-2016.1:** IBM Research-China, Research Staff Member
 
-<br>
-
-## Academic Background
-- **2016.2-2017.5:** 加拿大滑铁卢大学, 博士后
-- **2011.7-2016.1:** IBM中国研究院, 高级主任研究员
-- **2008-2009:** 美国加州大学伯克利分校, 加州先进交通技术研究所, 国家留学基金委公派交换生
-- **2005-2011:** 清华大学, 电子工程系, 博士
-- **2001-2005:** 清华大学, 基础科学（数学物理方向）, 理学学士
+## Education Experience
+- **2005-2011:** Tsinghua University, EE,  PhD
+- **2001-2005:** Tsinghua University, Math & Physics, B.S.
+- **2008-2009:** University of California, Berkeley, Visiting student
 
 
 ---
-## News and Updates
-None
+## News
+- *Mar 25, 2024*: Our paper **Toward Chinese Food Understanding: a Cross-Modal Ingredient-Level Benchmark** is accepted by IEEE Transaction on Multimedia (TMM, JCR:Q1).  Congrats to Chenyu and the team! Appreciate supports from Meituan.
+- *Mar 13, 2024*: Our paper **Rumor Detection Framework Based on Multi-source Knowledge Adaptation** is accepted by ICME (CCF-B).  Congrats to Jingqiu! This is an upgraded version on her previous study (MM'23).
+- *Feb 27, 2024*: Our paper **AnyScene: Customized Image Synthesis with Composited Foreground** is accepted by CVPR (CCF-A).  Congrats to Ruidong! This is our first paper on controlable image generation.
+- *Feb 24, 2024*: Our paper **MCDAN: a Multi-scale Context-enhanced Dynamic Attention Network for Diffusion Prediction** is accepted by IEEE Transaction on Multimedia  (TMM, JCR:Q1).  Congrats to Xiaowen!  This is our first paper on information diffusion prediction.
+
 
