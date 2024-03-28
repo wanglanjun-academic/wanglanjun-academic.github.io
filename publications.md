@@ -4,7 +4,9 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 26th Mar 2024&nbsp;  
+> Lastest Update: 26th Mar 2024&nbsp;
+
+Please refer [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=-uhnrYUAAAAJ) for the full publication list.
 
 ## Selected Preprint Papers
 - **Revealing vulnerabilities in stable diffusion via targeted attacks** [[arxiv]](https://arxiv.org/pdf/2401.08725v1.pdf) <br>Chenyu Zhang, Lanjun Wang, An-An Liu<br>
