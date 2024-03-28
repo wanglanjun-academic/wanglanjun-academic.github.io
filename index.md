@@ -10,7 +10,7 @@ Lanjun received her Ph.D. in Electronic Engineering from Tsinghua University in 
  
 Her scholarly pursuits are anchored in the realm of **Responsible Artificial Intelligence**. Lanjun is committed to crafting interpretable, robust, fair, privacy-preserving, and transparent artificial intelligence systems. Additionally, she delves into the realm of **data valuation and pricing**, aiming to harness data as a pivotal factor of production.
 
-<span style="color:blue">[Recruiting]:  Looking for prospective PhD students and Master students who will be enrolling in 2026.   Ideal candidates are expected to be **responsible**, **organized**, and **creative**. Strong *programming* skills, solid *mathematics* knowledge as well as good *communication* skills are preferred.  Please send your **CV**, **Transcript** and a brief **Summary** of your experience (in email). <span>
+<span style="color:blue">[Recruiting]:  Looking for prospective PhD students and Master students who will be enrolling in 2025.   Ideal candidates are expected to be **responsible**, **organized**, and **creative**. Strong *programming* skills, solid *mathematics* knowledge as well as good *communication* skills are preferred.  Please send your **CV**, **Transcript** and a brief **Summary** of your experience (in email). <span>
 
 ---
 ## Work Experience
