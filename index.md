@@ -4,7 +4,7 @@ layout: page
 
 ## About Me
 
-<img src="./images/wanglanjun.png" class="floatpic" width="360" height="480">
+<--! <img src="./images/wanglanjun.png" class="floatpic" width="360" height="480"> -->
 
 Lanjun received her Ph.D. in Electronic Engineering from Tsinghua University in 2011, and in the same year, she joined IBM Research-China. Before that, she was a member of Academic Talent Program 2001 at Tsinghua University and received B.S. degree in Math and Physics in 2005. After 10 year working in the industry, Lanjun was back to academia in 2021. Now she is a Researcher and Doctoral Supervisor at the School of New Media and Communication, Tianjin University.
  
