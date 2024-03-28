@@ -6,13 +6,11 @@ layout: page
 
 <img src="./images/wanglanjun.png" class="floatpic" width="360" height="480">
 
-<p>Lanjun received her Ph.D. in Electronic Engineering from Tsinghua University in 2011, and in the same year, she joined IBM Research-China. Before that, she was a member of Academic Talent Program 2001 at Tsinghua University and received B.S. degree in Math and Physics in 2005. After 10 year working in the industry, Lanjun was back to academia in 2021. Now she is a Professor and doctoral supervisor at the School of New Media and Communication, Tianjin University. <\p>
+Lanjun received her Ph.D. in Electronic Engineering from Tsinghua University in 2011, and in the same year, she joined IBM Research-China. Before that, she was a member of Academic Talent Program 2001 at Tsinghua University and received B.S. degree in Math and Physics in 2005. After 10 year working in the industry, Lanjun was back to academia in 2021. Now she is a Professor and doctoral supervisor at the School of New Media and Communication, Tianjin University.
  
-<p>Her scholarly pursuits are anchored in the realm of **Responsible Artificial Intelligence**. Lanjun is committed to crafting interpretable, robust, fair, privacy-preserving, and transparent artificial intelligence systems. Additionally, she delves into the realm of **data valuation and pricing**, aiming to harness data as a pivotal factor of production.<\p>
-
+Her scholarly pursuits are anchored in the realm of **Responsible Artificial Intelligence**. Lanjun is committed to crafting interpretable, robust, fair, privacy-preserving, and transparent artificial intelligence systems. Additionally, she delves into the realm of **data valuation and pricing**, aiming to harness data as a pivotal factor of production.
 
 <span style="color:blue">[Recruiting]:  Looking for prospective PhD students and Master students who will be enrolling in 2026.   Ideal candidates are expected to be **responsible**, **organized**, and **creative**. Strong *programming* skills, solid *mathematics* knowledge as well as good *communication* skills are preferred.  Please send your **CV**, **Transcript** and a brief **Summary** of your experience (in email). <span>
-
 
 ---
 ## Work Experience
@@ -25,7 +23,6 @@ layout: page
 - **2005-2011:** Tsinghua University, EE,  PhD
 - **2001-2005:** Tsinghua University, Math & Physics, B.S.
 - **2008-2009:** University of California, Berkeley, Visiting student
-
 
 ---
 ## News
