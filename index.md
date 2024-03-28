@@ -6,7 +6,7 @@ layout: page
 
 <img src="./images/wanglanjun.png" class="floatpic" width="360" height="480">
 
-Lanjun received her Ph.D. in Electronic Engineering from Tsinghua University in 2011, and in the same year, she joined IBM Research-China. Before that, she was a member of Academic Talent Program 2001 at Tsinghua University and received B.S. degree in Math and Physics in 2005. After 10 year working in the industry, Lanjun was back to academia in 2021. Now she is a Researcher(=full professor) and doctoral supervisor at the School of New Media and Communication, Tianjin University. 
+Lanjun received her Ph.D. in Electronic Engineering from Tsinghua University in 2011, and in the same year, she joined IBM Research-China. Before that, she was a member of Academic Talent Program 2001 at Tsinghua University and received B.S. degree in Math and Physics in 2005. After 10 year working in the industry, Lanjun was back to academia in 2021. Now she is a Professor and doctoral supervisor at the School of New Media and Communication, Tianjin University. 
  
 Her scholarly pursuits are anchored in the realm of **Responsible Artificial Intelligence**. Lanjun is committed to crafting interpretable, robust, fair, privacy-preserving, and transparent artificial intelligence systems. Additionally, she delves into the realm of **data valuation and pricing**, aiming to harness data as a pivotal factor of production.
 
@@ -16,7 +16,7 @@ Her scholarly pursuits are anchored in the realm of **Responsible Artificial Int
 
 ---
 ## Work Experience
-- **2021.10-Present:** Tianjin University, Researcher
+- **2021.10-Present:** Tianjin University, Professor
 - **2017.5-2021.10:** Huawei Technologies, Technical Expert
 - **2016.2-2017.5:** University of Waterloo, Postdoctoral Research Fellow
 - **2011.7-2016.1:** IBM Research-China, Research Staff Member
