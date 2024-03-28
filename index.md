@@ -1,4 +1,4 @@
-![image](https://github.com/wanglanjun-academic/wanglanjun-academic.github.io/assets/119121383/7779506a-ac0a-4098-bd0e-214c6d44dd44)---
+---
 layout: page
 ---
 
