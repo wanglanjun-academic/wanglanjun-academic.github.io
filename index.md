@@ -10,6 +10,8 @@ Her scholarly pursuits are anchored in the realm of **Responsible Artificial Int
 
 <span style="color:blue">[Recruiting]:  Looking for prospective PhD students and Master students who will be enrolling in 2025.   Ideal candidates are expected to be **responsible**, **organized**, and **creative**. Strong *programming* skills, solid *mathematics* knowledge as well as good *communication* skills are preferred.  Please send your **CV**, **Transcript** and a brief **Summary** of your experience (in email) to wanglanjun AT tju.edu.cn. <span>
 
+<span style="color:grey">[NOTE]: So far I do not have any plan on supervising foreign students funded by Chinese Government Scholarship. <span>
+
 ---
 ## Work Experience
 - **2021.10-Present:** Tianjin University, Researcher/Doctoral Supervisor
