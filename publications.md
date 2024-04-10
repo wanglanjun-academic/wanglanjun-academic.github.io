@@ -10,6 +10,7 @@ Please refer [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&us
 
 ## Selected Preprint Papers
 - **Revealing vulnerabilities in stable diffusion via targeted attacks** [[arxiv]](https://arxiv.org/pdf/2401.08725v1.pdf) <br>Chenyu Zhang, Lanjun Wang, An-An Liu<br>
+- **A Training-Free Plug-and-Play Watermark Framework for Stable Diffusion** [[arxiv]](https://arxiv.org/pdf/2404.05607.pdf) <br>Guokai Zhang, Lanjun Wang, Yuting Su, An-An Liu<br>
 - **T2IW: Joint Text to Image & Watermark Generation** [[arxiv]](https://arxiv.org/pdf/2309.03815.pdf) <br>An-An Liu, Guokai Zhang, Yuting Su, Ning Xu, Yongdong Zhang, and Lanjun Wang<br>
 
 
