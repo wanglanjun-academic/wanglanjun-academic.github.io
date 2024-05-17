@@ -26,6 +26,7 @@ Her scholarly pursuits are anchored in the realm of **Responsible Artificial Int
 
 ---
 ## News
+- *May 17, 2024*: Our paper **Certified Robustness on Visual Graph Matching via Searching Optimal Smoothing Range** is accepted by KDD (CCF-A). Congrats to Huaqing!
 - *Mar 25, 2024*: Our paper **Toward Chinese Food Understanding: a Cross-Modal Ingredient-Level Benchmark** is accepted by IEEE Transaction on Multimedia (TMM, JCR:Q1).  Congrats to Chenyu and the team! Appreciate supports from Meituan.
 - *Mar 13, 2024*: Our paper **Rumor Detection Framework Based on Multi-source Knowledge Adaptation** is accepted by ICME (CCF-B).  Congrats to Jingqiu! This is an upgraded version on her previous study (MM'23).
 - *Feb 27, 2024*: Our paper **AnyScene: Customized Image Synthesis with Composited Foreground** is accepted by CVPR (CCF-A).  Congrats to Ruidong! This is our first paper on controlable image generation.
