@@ -26,6 +26,7 @@ Her scholarly pursuits are anchored in the realm of **Responsible Artificial Int
 
 ---
 ## News
+- *July 16, 2024*: Our paper **Bots Shield Fake News: Adversarial Attack on User Engagement based Fake News Detection** is accepted by CIKM (CCF-B).  Congrats to Zehao!  Appreciate supports from SMP-IDATA Open Youth Fund.
 - *May 26, 2024*: Talk on **Review on the progress of the AIGC visual content generation and traceability (AIGC视觉内容生成与溯源研究进展)** at CSIG'24 in Xi'an. [[Link]](http://www.cjig.cn/jig/article/html/240003) [[Slides]](\file\CSIG_进展报告_生成和生成溯源_分享版1_compressed.pdf) 
 - *May 17, 2024*: Our paper **Certified Robustness on Visual Graph Matching via Searching Optimal Smoothing Range** is accepted by KDD (CCF-A). Congrats to Huaqing!
 - *Mar 25, 2024*: Our paper **Toward Chinese Food Understanding: a Cross-Modal Ingredient-Level Benchmark** is accepted by IEEE Transaction on Multimedia (TMM, JCR:Q1).  Congrats to Chenyu and the team! Appreciate supports from Meituan.
