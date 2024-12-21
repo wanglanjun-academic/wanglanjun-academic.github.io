@@ -8,7 +8,7 @@ Lanjun received her Ph.D. in Electronic Engineering from Tsinghua University in 
  
 Her scholarly pursuits are anchored in the realm of **Responsible Artificial Intelligence**. Lanjun is committed to crafting interpretable, robust, fair, privacy-preserving, and transparent artificial intelligence systems. Additionally, she delves into the realm of **data valuation and pricing**, aiming to harness data as a pivotal factor of production.
 
-<span style="color:blue">[Recruiting]:  Looking for prospective PhD students and Master students who will be enrolling in 2025.   Ideal candidates are expected to be **responsible**, **organized**, and **creative**. Strong *programming* skills, solid *mathematics* knowledge as well as good *communication* skills are preferred.  Please send your **CV**, **Transcript** and a brief **Summary** of your experience (in email) to wanglanjun AT tju.edu.cn. <span>
+<span style="color:blue">[Recruiting]:  Looking for prospective PhD students (enroll in 2025 and 2026) and Master students (enroll in 2026) .   Ideal candidates are expected to be **responsible**, **organized**, and **creative**. Strong *programming* skills, solid *mathematics* knowledge as well as good *communication* skills are preferred.  Please send your **CV**, **Transcript** and a brief **Summary** of your experience (in email) to wanglanjun AT tju.edu.cn. <span>
 
 <span style="color:grey">[NOTE]: So far I do not have any plan on supervising foreign students funded by Chinese Government Scholarship. <span>
 
@@ -26,6 +26,9 @@ Her scholarly pursuits are anchored in the realm of **Responsible Artificial Int
 
 ---
 ## News
+- *Dec 21, 2024*: Our paper **Aesthetic Perception Prompting for Interpretable Image Aesthetics Assessment with MLLMs** is accepted by ICASSP'25 (CCF-B). Appreciate supports from Meituan.
+- *Dec 10, 2024*: Collaborated paper **Anywhere: A Multi-Agent Framework for User-Guided, Reliable, and Diverse Foreground-Conditioned Image Generation** is accepted by AAAI'25 (CCF-A).  Congrats to Zili and his team.
+- *Nov 30, 2024*: Talk on **Vulnerability Pattern of Text-to-Image Diffusion Models (文生图模型鲁棒性缺陷模式挖掘)** at CIPS-LMG'24 in Jiaxing. [[Link]](https://github.com/datar001/Awesome-AD-on-T2IDM)
 - *Sept 13, 2024*: Our paper **Adversarial Attacks and Defenses on Text-to-Image Diffusion Models: A Survey** is accepted by Information Fusion (JCR:Q1).  Congrats to Chenyu. [[Link]](https://github.com/datar001/Awesome-AD-on-T2IDM)  
 - *July 26, 2024*: Talk on **Multimedia Information Propagation Control with Social Bots（基于社交机器人的多媒体传播安全可控）** at ChinaMM'24 in Yinchuan. [[Slides]](\file\ChinaMM-wanglj_publicshareversion.pdf)
 - *July 16, 2024*: Our paper **Bots Shield Fake News: Adversarial Attack on User Engagement based Fake News Detection** is accepted by CIKM (CCF-B).  Congrats to Zehao!  Appreciate supports from SMP-IDATA Open Youth Fund.
