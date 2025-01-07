@@ -26,6 +26,7 @@ Her scholarly pursuits are anchored in the realm of **Responsible Artificial Int
 
 ---
 ## News
+- *Jan 6, 2025*: Our paper **MarkPlugger: Generalizable Watermark Framework for Latent Diffusion Models without Retraining** is accepted by IEEE Transaction on Multimedia (TMM, JCR:Q1).  Congrats to Guokai!  This is our first paper on generation watermark.
 - *Dec 21, 2024*: Our paper **Aesthetic Perception Prompting for Interpretable Image Aesthetics Assessment with MLLMs** is accepted by ICASSP'25 (CCF-B). Appreciate supports from Meituan.
 - *Dec 10, 2024*: Collaborated paper **Anywhere: A Multi-Agent Framework for User-Guided, Reliable, and Diverse Foreground-Conditioned Image Generation** is accepted by AAAI'25 (CCF-A).  Congrats to Zili and his team.
 - *Nov 30, 2024*: Talk on **Vulnerability Pattern of Text-to-Image Diffusion Models (文生图模型鲁棒性缺陷模式挖掘)** at CIPS-LMG'24 in Jiaxing. [[Link]](https://github.com/datar001/Awesome-AD-on-T2IDM)
