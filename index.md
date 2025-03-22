@@ -26,7 +26,9 @@ Her scholarly pursuits are anchored in the realm of **Responsible Artificial Int
 
 ---
 ## News
-- *Jan 6, 2025*: Our paper **MarkPlugger: Generalizable Watermark Framework for Latent Diffusion Models without Retraining** is accepted by IEEE Transaction on Multimedia (TMM, JCR:Q1).  Congrats to Guokai!  This is our first paper on generation watermark.
+- *Mar 21, 2025*: Our paper **Culture-based Adversarial Attack on Text-to-Image Models** is accepted by ICME (CCF-B).  Congrats to Fuyi and Chenyu! This study is to jailbreak T2I models by leveraging cultural knowledge.
+- *Mar 5, 2025*: Our paper **Few-Shot In-Context Learning for Implicit Semantic Multimodal Content Detection and Interpretation** is accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT, JCR:Q1).  Congrats to Xiuxian.  This study is about hateful memes detection. 
+- *Jan 6, 2025*: Our paper **MarkPlugger: Generalizable Watermark Framework for Latent Diffusion Models without Retraining** is accepted by IEEE Transactions on Multimedia (TMM, JCR:Q1).  Congrats to Guokai!  This is our first paper on generation watermark.
 - *Dec 21, 2024*: Our paper **Aesthetic Perception Prompting for Interpretable Image Aesthetics Assessment with MLLMs** is accepted by ICASSP'25 (CCF-B). Appreciate supports from Meituan.
 - *Dec 10, 2024*: Collaborated paper **Anywhere: A Multi-Agent Framework for User-Guided, Reliable, and Diverse Foreground-Conditioned Image Generation** is accepted by AAAI'25 (CCF-A).  Congrats to Zili and his team.
 - *Nov 30, 2024*: Talk on **Vulnerability Pattern of Text-to-Image Diffusion Models (文生图模型鲁棒性缺陷模式挖掘)** at CIPS-LMG'24 in Jiaxing. [[Link]](https://github.com/datar001/Awesome-AD-on-T2IDM)
@@ -35,9 +37,9 @@ Her scholarly pursuits are anchored in the realm of **Responsible Artificial Int
 - *July 16, 2024*: Our paper **Bots Shield Fake News: Adversarial Attack on User Engagement based Fake News Detection** is accepted by CIKM (CCF-B).  Congrats to Zehao!  Appreciate supports from SMP-IDATA Open Youth Fund.
 - *May 26, 2024*: Talk on **Review on the progress of the AIGC visual content generation and traceability (AIGC视觉内容生成与溯源研究进展)** at CSIG'24 in Xi'an. [[Link]](http://www.cjig.cn/jig/article/html/240003) [[Slides]](\file\CSIG_进展报告_生成和生成溯源_分享版1_compressed.pdf) 
 - *May 17, 2024*: Our paper **Certified Robustness on Visual Graph Matching via Searching Optimal Smoothing Range** is accepted by KDD (CCF-A). Congrats to Huaqing!
-- *Mar 25, 2024*: Our paper **Toward Chinese Food Understanding: a Cross-Modal Ingredient-Level Benchmark** is accepted by IEEE Transaction on Multimedia (TMM, JCR:Q1).  Congrats to Chenyu and the team! Appreciate supports from Meituan.
+- *Mar 25, 2024*: Our paper **Toward Chinese Food Understanding: a Cross-Modal Ingredient-Level Benchmark** is accepted by IEEE Transactions on Multimedia (TMM, JCR:Q1).  Congrats to Chenyu and the team! Appreciate supports from Meituan.
 - *Mar 13, 2024*: Our paper **Rumor Detection Framework Based on Multi-source Knowledge Adaptation** is accepted by ICME (CCF-B).  Congrats to Jingqiu! This is an upgraded version on her previous study (MM'23).
 - *Feb 27, 2024*: Our paper **AnyScene: Customized Image Synthesis with Composited Foreground** is accepted by CVPR (CCF-A).  Congrats to Ruidong! This is our first paper on controlable image generation.
-- *Feb 24, 2024*: Our paper **MCDAN: a Multi-scale Context-enhanced Dynamic Attention Network for Diffusion Prediction** is accepted by IEEE Transaction on Multimedia  (TMM, JCR:Q1).  Congrats to Xiaowen!  This is our first paper on information diffusion prediction.
+- *Feb 24, 2024*: Our paper **MCDAN: a Multi-scale Context-enhanced Dynamic Attention Network for Diffusion Prediction** is accepted by IEEE Transactions on Multimedia  (TMM, JCR:Q1).  Congrats to Xiaowen!  This is our first paper on information diffusion prediction.
 
 
