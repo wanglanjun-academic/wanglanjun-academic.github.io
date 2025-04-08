@@ -26,6 +26,7 @@ Her scholarly pursuits are anchored in the realm of **Responsible Artificial Int
 
 ---
 ## News
+- *April 7, 2025*: Our paper **Next Chain Prediction: A Generative Recommendation Model with Sequence-Chain Attention** is accepted by IEEE Transactions on Multimedia (TMM, JCR:Q1).  Congrats to Yanwei! This is an improvement of Meta's generative recommendation (HSTU).  Appreciate supports from Meituan.
 - *Mar 21, 2025*: Our paper **Culture-based Adversarial Attack on Text-to-Image Models** is accepted by ICME (CCF-B).  Congrats to Fuyi and Chenyu! This study is to jailbreak T2I models by leveraging cultural knowledge.
 - *Mar 5, 2025*: Our paper **Few-Shot In-Context Learning for Implicit Semantic Multimodal Content Detection and Interpretation** is accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT, JCR:Q1).  Congrats to Xiuxian.  This study is about hateful memes detection. 
 - *Jan 6, 2025*: Our paper **MarkPlugger: Generalizable Watermark Framework for Latent Diffusion Models without Retraining** is accepted by IEEE Transactions on Multimedia (TMM, JCR:Q1).  Congrats to Guokai!  This is our first paper on generation watermark.
