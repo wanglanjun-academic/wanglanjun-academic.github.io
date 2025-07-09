@@ -26,6 +26,7 @@ Her scholarly pursuits are anchored in the realm of **Responsible Artificial Int
 
 ---
 ## News
+- *July 6，2025*: Our paper **When Headlines Meet Minds: Empowering News Recommendations with Social Simulator** is accepted by ACM MM 2025 (CCF-A).  Congrats to Yanwei!  This is our first paper on applying social simulator.
 - *June 26, 2025*: Our paper **TRCE: Towards Reliable Malicious Concept Erasure in Text-to-Image Diffusion Models** is accepted by ICCV 2025 (CCF-A).  Congrats to Ruidong! This is our first paper on model editing for T2I models. Meanwhile, collaborated paper **RoCo-Sim: Enhancing Roadside Collaborative Perception through Foreground Simulation** is also accepted by ICCV 2025.  Congrats to Yuwen (my undergraduate student) and her Ph.D. supervisor Prof. Siheng Chen!
 - *April 7, 2025*: Our paper **Next Chain Prediction: A Generative Recommendation Model with Sequence-Chain Attention** is accepted by IEEE Transactions on Multimedia (TMM, JCR:Q1).  Congrats to Yanwei! This is an improvement of Meta's generative recommendation (HSTU).  Appreciate supports from Meituan.
 - *Mar 21, 2025*: Our paper **Culture-based Adversarial Attack on Text-to-Image Models** is accepted by ICME (CCF-B).  Congrats to Fuyi and Chenyu! This study is to jailbreak T2I models by leveraging cultural knowledge.
