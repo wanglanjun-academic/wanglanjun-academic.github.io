@@ -8,7 +8,7 @@ Lanjun received her Ph.D. in Electronic Engineering from Tsinghua University in 
  
 Her scholarly pursuits are anchored in the realm of **Responsible Artificial Intelligence**. Lanjun is committed to crafting interpretable, robust, fair, privacy-preserving, and transparent artificial intelligence systems. Additionally, she delves into the realm of **data valuation and pricing**, aiming to harness data as a pivotal factor of production.
 
-<span style="color:blue">[Recruiting]:  Looking for prospective PhD students and Master students (enroll in 2026).   Ideal candidates are expected to be **responsible**, **organized**, and **creative**. Strong *programming* skills, solid *mathematics* knowledge as well as good *communication* skills are preferred.  Please send your **CV**, **Transcript** and a brief **Summary** of your experience (in email) to wanglanjun AT tju.edu.cn. <span>
+<span style="color:blue">[Recruiting]:  Looking for prospective PhD students and Master students (enroll in 2026).   Ideal candidates are expected to be **responsible**, **organized**, and **creative**. Strong *programming* skills, solid *mathematics* knowledge as well as good *communication* skills are preferred.  Please send your **CV** and **form** in [[Link]](https://pan.baidu.com/s/1EC6xhien_f8huHNwIt0rBQ?pwd=e2mh) to wanglanjun AT tju.edu.cn. Note: please attach files directly, not to use 163 Cloud file system. <span>
 
 <span style="color:grey">[NOTE]: So far I do not have any plan on supervising foreign students funded by Chinese Government Scholarship. <span>
 
@@ -26,6 +26,8 @@ Her scholarly pursuits are anchored in the realm of **Responsible Artificial Int
 
 ---
 ## News
+- *Aug 10, 2025* Congrats to Jian and Xiaowen! They win IJCAI (CCF-A) Challenge on Characterizing User Behavior in Social Networks: the **first place** of Track 2 (Bursty event cascade classification) and the third place of Track 1 (Retweet network link prediction). 
+- *Aug 9, 2025*: Our paper **Node Injection Based Adversarial Attack and Defense on Social Bot Detection** is accepted by IEEE Transactions on Computational Social Systems (TCSS, JCR:Q1).  Congrats to Yanwei!
 - *July 6，2025*: Our paper **When Headlines Meet Minds: Empowering News Recommendations with Social Simulator** is accepted by ACM MM 2025 (CCF-A).  Congrats to Yanwei!  This is our first paper on applying social simulator.
 - *June 26, 2025*: Our paper **TRCE: Towards Reliable Malicious Concept Erasure in Text-to-Image Diffusion Models** is accepted by ICCV 2025 (CCF-A).  Congrats to Ruidong! This is our first paper on model editing for T2I models. Meanwhile, collaborated paper **RoCo-Sim: Enhancing Roadside Collaborative Perception through Foreground Simulation** is also accepted by ICCV 2025.  Congrats to Yuwen (my undergraduate student) and her Ph.D. supervisor Prof. Siheng Chen!
 - *April 7, 2025*: Our paper **Next Chain Prediction: A Generative Recommendation Model with Sequence-Chain Attention** is accepted by IEEE Transactions on Multimedia (TMM, JCR:Q1).  Congrats to Yanwei! This is an improvement of Meta's generative recommendation (HSTU).  Appreciate supports from Meituan.
