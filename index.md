@@ -26,6 +26,7 @@ Her scholarly pursuits are anchored in the realm of **Responsible Artificial Int
 
 ---
 ## News
+- *Sept 2, 2025* Our paper **Targeted Ensemble Defense against Unauthorized Text-to-Image Identity Customization** is accepted by Information Fusion (JCR:Q1). Congrats to Mingwang!
 - *Aug 10, 2025* Congrats to Jian and Xiaowen! They win IJCAI (CCF-A) Challenge on Characterizing User Behavior in Social Networks: the **first place** of Track 2 (Bursty event cascade classification) and the third place of Track 1 (Retweet network link prediction). 
 - *Aug 9, 2025*: Our paper **Node Injection Based Adversarial Attack and Defense on Social Bot Detection** is accepted by IEEE Transactions on Computational Social Systems (TCSS, JCR:Q1).  Congrats to Yanwei!
 - *July 6，2025*: Our paper **When Headlines Meet Minds: Empowering News Recommendations with Social Simulator** is accepted by ACM MM 2025 (CCF-A).  Congrats to Yanwei!  This is our first paper on applying social simulator.
