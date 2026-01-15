@@ -26,6 +26,7 @@ Her scholarly pursuits are anchored in the realm of **Responsible Artificial Int
 
 ---
 ## News
+- *Jan 13, 2026* Our paper **Pattern-aware Illicit Account Detection based on User Behavior Sequences** is accepted by WWW 2026. Congrats to Zehao! Appreciate supports from  CCF-Tencent Rhino Bird Foundation! 
 - *Nov 8, 2025* Our papers **Reason2Attack: Jailbreaking Text-to-Image Models via LLM Reasoning** and **T2I-RiskyPrompt: A benchmark for Safety Evaluation, Attack, and Defense on Text-to-Image Model** are accepted by AAAI 2026 (CCF-A).  Super congrats to Chenyu!  **Reason2Attack** enables the LLM to jailbreak T2I models via RL; **T2I-RiskyPrompt** provides a benchmark dataset and observations related to the safety issues of T2I models. Meanwhile, collaborated paper **Key Decision-Makers in Multi-Agent Debates: Who Holds the Power?** is also accepted by AAAI 2026.  Congrats to Qian and Prof. Yan Zheng!
 - *Sept 2, 2025* Our paper **Targeted Ensemble Defense against Unauthorized Text-to-Image Identity Customization** is accepted by Information Fusion (JCR:Q1). Congrats to Mingwang!
 - *Aug 10, 2025* Congrats to Jian and Xiaowen! They win IJCAI (CCF-A) Challenge on Characterizing User Behavior in Social Networks: the **first place** of Track 2 (Bursty event cascade classification) and the third place of Track 1 (Retweet network link prediction). 
