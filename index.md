@@ -26,6 +26,7 @@ Her scholarly pursuits are anchored in the realm of **Responsible Artificial Int
 
 ---
 ## News
+- *March 17, 2026* Our paper **Shapley-Guided Consensus Distillation on Multimodal Hateful Meme Detection** is accepted by ICME 2026 (CCF-B). Congrats to Liang Hao! Meanwhile, collaborated paper **CineAGI: Character-Consistent Movie Creation through LLM-Orchestrated Multi-Modal Generation and Cross-Scene Integration** is also accepted.  Congrats to Zili and his team!
 - *Feb 21, 2026* Our paper **Layer-wise Instance Binding for Regional and Occlusion Control in Text-to-Image Diffusion Transformers** is accepted by CVPR 2026 (CCF-A). Congrats to Ruidong!
 - *Jan 27, 2026* Our paper **NK-GAD: Neighbor Knowledge-Enhanced Unsupervised Graph Anomaly Detection** is accepted by DASFFA 2026 (CCF-B). Congrats to Zehao!
 - *Jan 13, 2026* Our paper **Pattern-aware Illicit Account Detection based on User Behavior Sequences** is accepted by WWW 2026 (CCF-A). Congrats to Zehao! Appreciate supports from  CCF-Tencent Rhino Bird Foundation! 
