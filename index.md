@@ -8,7 +8,10 @@ Lanjun received her Ph.D. in Electronic Engineering from Tsinghua University in 
  
 Her scholarly pursuits are anchored in the realm of **Responsible Artificial Intelligence**. Lanjun is committed to crafting interpretable, robust, fair, privacy-preserving, and transparent artificial intelligence systems. Additionally, she delves into the realm of **AI for Social Science**, aiming to develop computational models that explain, predict and intervene complex social behaviors at individual and collective levels.
 
-<span style="color:blue">[Recruiting]:  Looking for prospective Master and PhD students (enroll in 2027).   Ideal candidates are expected to be **responsible**, **organized**, and **creative**. Strong *programming* skills, solid *mathematics* knowledge as well as good *communication* skills are preferred.  Please send your **CV** to wanglanjun AT tju.edu.cn. Note: please attach files directly, not to use 163 Cloud file system. <span>
+<span style="color:blue">[Recruiting]:  Looking for prospective Master and PhD students (enroll in 2027).   Ideal candidates are expected to be **responsible**, **organized**, and **creative**. Strong *programming* skills, solid *mathematics* knowledge as well as good *communication* skills are preferred.  Please send your **CV** to wanglanjun AT tju.edu.cn. Note: please attach files directly, not to use 163 Cloud file system.
+* For Master applicant, please fill the form in [link](https://pan.baidu.com/s/1Kb0-FDf4UziH2PAzktoiug?pwd=sjf6) and attach it in the email.
+* For PhD applicant, please attach your published/submitted/working paper(s).
+<span>
 
 <span style="color:grey">[NOTE]: So far I do not have any plan on supervising foreign students funded by Chinese Government Scholarship. <span>
 
@@ -29,7 +32,7 @@ Her scholarly pursuits are anchored in the realm of **Responsible Artificial Int
 - *March 17, 2026* Our paper **Shapley-Guided Consensus Distillation on Multimodal Hateful Meme Detection** is accepted by ICME 2026 (CCF-B). Congrats to Liang Hao! Meanwhile, collaborated paper **CineAGI: Character-Consistent Movie Creation through LLM-Orchestrated Multi-Modal Generation and Cross-Scene Integration** is also accepted.  Congrats to Zili and his team!
 - *Feb 21, 2026* Our paper **Layer-wise Instance Binding for Regional and Occlusion Control in Text-to-Image Diffusion Transformers** is accepted by CVPR 2026 (CCF-A). Congrats to Ruidong!
 - *Jan 27, 2026* Our paper **NK-GAD: Neighbor Knowledge-Enhanced Unsupervised Graph Anomaly Detection** is accepted by DASFFA 2026 (CCF-B). Congrats to Zehao!
-- *Jan 13, 2026* Our paper **Pattern-aware Illicit Account Detection based on User Behavior Sequences** is accepted by WWW 2026 (CCF-A). Congrats to Zehao! Appreciate supports from  CCF-Tencent Rhino Bird Foundation! 
+- *Jan 13, 2026* Our paper **Pattern-aware Illicit Account Detection based on User Behavior Sequences** is accepted by WWW 2026 (CCF-A) and selected as *Oral*. Congrats to Zehao! Appreciate supports from  CCF-Tencent Rhino Bird Foundation! 
 - *Nov 8, 2025* Our papers **Reason2Attack: Jailbreaking Text-to-Image Models via LLM Reasoning** and **T2I-RiskyPrompt: A benchmark for Safety Evaluation, Attack, and Defense on Text-to-Image Model** are accepted by AAAI 2026 (CCF-A).  Super congrats to Chenyu!  **Reason2Attack** enables the LLM to jailbreak T2I models via RL; **T2I-RiskyPrompt** provides a benchmark dataset and observations related to the safety issues of T2I models. Meanwhile, collaborated paper **Key Decision-Makers in Multi-Agent Debates: Who Holds the Power?** is also accepted by AAAI 2026.  Congrats to Qian and Prof. Yan Zheng!
 - *Sept 2, 2025* Our paper **Targeted Ensemble Defense against Unauthorized Text-to-Image Identity Customization** is accepted by Information Fusion (JCR:Q1). Congrats to Mingwang!
 - *Aug 10, 2025* Congrats to Jian and Xiaowen! They win IJCAI (CCF-A) Challenge on Characterizing User Behavior in Social Networks: the **first place** of Track 2 (Bursty event cascade classification) and the third place of Track 1 (Retweet network link prediction). 
