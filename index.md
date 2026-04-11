@@ -8,10 +8,10 @@ Lanjun received her Ph.D. in Electronic Engineering from Tsinghua University in 
  
 Her scholarly pursuits are anchored in the realm of **Responsible Artificial Intelligence**. Lanjun is committed to crafting interpretable, robust, fair, privacy-preserving, and transparent artificial intelligence systems. Additionally, she delves into the realm of **AI for Social Science**, aiming to develop computational models that explain, predict and intervene complex social behaviors at individual and collective levels.
 
-<span style="color:blue">[Recruiting]:  Looking for prospective Master and PhD students (enroll in 2027).   Ideal candidates are expected to be **responsible**, **organized**, and **creative**. Strong *programming* skills, solid *mathematics* knowledge as well as good *communication* skills are preferred.  Please send your **CV** to wanglanjun AT tju.edu.cn. Note: please attach files directly, not to use 163 Cloud file system.
-* For Master applicant, please fill the form in [link](https://pan.baidu.com/s/1Kb0-FDf4UziH2PAzktoiug?pwd=sjf6) and attach it in the email.
-* For PhD applicant, please attach your published/submitted/working paper(s).
-<span>
+<span style="color:blue">[Recruiting]:  Looking for prospective Master and PhD students (enroll in 2027).   Ideal candidates are expected to be **responsible**, **organized**, and **creative**. Strong *programming* skills, solid *mathematics* knowledge as well as good *communication* skills are preferred.  Please send your **CV** to wanglanjun AT tju.edu.cn. Note: please attach files directly, not to use 163 Cloud file system.<span>
+* <span style="color:blue">For Master applicant, please fill the form in [link](https://pan.baidu.com/s/1Kb0-FDf4UziH2PAzktoiug?pwd=sjf6) and attach it in the email.<span>
+* <span style="color:blue">For PhD applicant, please attach your published/submitted/working paper(s).<span>
+
 
 <span style="color:grey">[NOTE]: So far I do not have any plan on supervising foreign students funded by Chinese Government Scholarship. <span>
 
