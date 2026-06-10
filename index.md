@@ -29,6 +29,10 @@ Her scholarly pursuits are anchored in the realm of **Responsible Artificial Int
 
 ---
 ## News
+- *May 1, 2026* Two papers are accepted by ICML 2026 (CCF-A).  Congrats to Zehao and Shilong.  Appreciate supports from all collaborators!
+   - **When Planning Fails Despite Correct Execution: On Epistemic Calibration for LLM-Based Multi-Agent Systems** [[Link]](https://github.com/wzhSteve/EPC-AW)
+   - **SE-GA: Memory-Augmented Self-Evolution for GUI Agents** [[Link]](https://github.com/jinshilong-dev/SE-GA)
+- *April 16, 2026* Our paper **From Clicks to Journeys: Empowering Advertising Text Generation with Social Simulator Guidance** is accepted by IEEE TMM (CCF-A).  Congrats to Yanwei!
 - *March 17, 2026* Our paper **Shapley-Guided Consensus Distillation on Multimodal Hateful Meme Detection** is accepted by ICME 2026 (CCF-B). Congrats to Liang Hao! Meanwhile, collaborated paper **CineAGI: Character-Consistent Movie Creation through LLM-Orchestrated Multi-Modal Generation and Cross-Scene Integration** is also accepted.  Congrats to Zili and his team!
 - *Feb 21, 2026* Our paper **Layer-wise Instance Binding for Regional and Occlusion Control in Text-to-Image Diffusion Transformers** is accepted by CVPR 2026 (CCF-A). Congrats to Ruidong!
 - *Jan 27, 2026* Our paper **NK-GAD: Neighbor Knowledge-Enhanced Unsupervised Graph Anomaly Detection** is accepted by DASFFA 2026 (CCF-B). Congrats to Zehao!
