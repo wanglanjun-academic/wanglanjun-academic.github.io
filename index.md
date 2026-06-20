@@ -29,6 +29,8 @@ Her scholarly pursuits are anchored in the realm of **Responsible Artificial Int
 
 ---
 ## News
+- *June 20, 2026* Our paper is accepted by IEEE TMM (CCF-A).  Congrats to Xiaowen.
+  - **Cognitive Mechanism of Multimodal Social Media Popularity: A Social Simulator Approach**
 - *May 1, 2026* Two papers are accepted by ICML 2026 (CCF-A).  Congrats to Zehao and Shilong.  Appreciate supports from all collaborators!
    - **When Planning Fails Despite Correct Execution: On Epistemic Calibration for LLM-Based Multi-Agent Systems** [[Link]](https://github.com/wzhSteve/EPC-AW)
    - **SE-GA: Memory-Augmented Self-Evolution for GUI Agents** [[Link]](https://github.com/jinshilong-dev/SE-GA)
