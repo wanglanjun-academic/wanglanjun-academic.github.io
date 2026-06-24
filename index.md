@@ -29,6 +29,9 @@ Her scholarly pursuits are anchored in the realm of **Responsible Artificial Int
 
 ---
 ## News
+- *June 22, 2026* Congratulations to all the graduates!
+   - *Masters*: Mingwang (continue his PhD in TJU), Fuxia (join Qwen, Alibaba), and Xiyu (co-supervision, join Meituan)
+   - *Undergraduates*: Tairen (continue his Master in CUHK(SZ)), and Yiwen (continue his Master in SJTU)
 - *June 20, 2026* Our paper is accepted by IEEE TMM (CCF-A).  Congrats to Xiaowen.
   - **Cognitive Mechanism of Multimodal Social Media Popularity: A Social Simulator Approach**
 - *May 1, 2026* Two papers are accepted by ICML 2026 (CCF-A).  Congrats to Zehao and Shilong.  Appreciate supports from all collaborators!
