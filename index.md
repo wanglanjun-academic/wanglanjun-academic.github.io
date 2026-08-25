@@ -29,6 +29,10 @@ Her scholarly pursuits are anchored in the realm of **Responsible Artificial Int
 
 ---
 ## News
+- *August 25, 2026* Our paper is accepted by ACM CCS 2026 (CCF-A). Congrats to Chenyu.
+  - **What Concepts Lie Within? Detecting and Suppressing Risky Content in Diffusion Transformers**
+- *August 21, 2026* Our paper is accepted by EMNLP  2026 (CCF-B, acceptance rate of 15.4%). Congrats to Zehao.  Appreciate supports from Shanghai Key Laboratory of Data Science！
+  - **DCFA: Dual-view Causal Attribution for Failure Reasoning in LLM-based Multi-agent Systems**
 - *June 22, 2026* Congratulations to all the graduates!
    - *Masters*: Mingwang (continue his PhD in TJU), Fuxia (join Qwen, Alibaba), and Xiyu (co-supervision, join Meituan)
    - *Undergraduates*: Tairen (continue his Master in CUHK(SZ)), and Yiwen (continue his Master in SJTU)
