@@ -29,6 +29,8 @@ Her scholarly pursuits are anchored in the realm of **Responsible Artificial Int
 
 ---
 ## News
+- *Sept 25, 2026* Collaborated paper is accepted by NeurIPS 2026 (CCF-A).  Congrats to Xietian and Prof. Yi.
+  - **Linguistic Trajectory Encoding for Efficient Long-Horizon Spatial Memory in Embodied Agents**
 - *August 25, 2026* Our paper is accepted by ACM CCS 2026 (CCF-A). Congrats to Chenyu.
   - **What Concepts Lie Within? Detecting and Suppressing Risky Content in Diffusion Transformers**
 - *August 21, 2026* Our paper is accepted by EMNLP  2026 (CCF-B, acceptance rate of 15.4%). Congrats to Zehao.  Appreciate supports from Shanghai Key Laboratory of Data Science！
